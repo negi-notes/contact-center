@@ -1,6 +1,6 @@
 # contact-centre-project
 
-This repo contains 3 jupyter notebooks in addition to the task notebook, each for the two given tasks.
+This repo contains 2 jupyter notebooks in addition to the task notebook, each for the two given tasks.
 1. Agent_Selection: Solution for agent selection task 
 2. Phatic Classifier: Solution for phatic text classification
 
